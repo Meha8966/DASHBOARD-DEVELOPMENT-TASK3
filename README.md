@@ -36,4 +36,9 @@ Visual 5 — Monthly Sales Trend
 An interactive sales dashboard was successfully created using Power BI. The dashboard effectively visualized key business metrics such as sales trends, country-wise performance, and product analysis. The project demonstrated the importance of data visualization in transforming raw data into meaningful insights for business analysis and decision-making.
 
 #OUTPUT
-<img width="1780" height="805" alt="Image" src="https://github.com/user-attachments/assets/d4164750-86bb-46ba-bec9-92730fbe4ac4" />
+<img width="910" height="509" alt="Image" src="https://github.com/user-attachments/assets/fe212c36-0460-4b9e-a039-e33a7a8e3312" />
+<img width="954" height="635" alt="Image" src="https://github.com/user-attachments/assets/53eedb9d-9abe-49a7-8565-b8d4ddc2cec0" />
+<img width="757" height="512" alt="Image" src="https://github.com/user-attachments/assets/882119bf-06ca-4634-87b4-9e1223d18b0d" />
+<img width="630" height="437" alt="Image" src="https://github.com/user-attachments/assets/5d2665c7-4e6c-4d06-be62-14a64f92b8ca" />
+
+<img width="924" height="615" alt="Image" src="https://github.com/user-attachments/assets/3f9f0e1a-5c30-47a6-ab15-9b1956b5c669" />
